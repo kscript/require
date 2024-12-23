@@ -1,0 +1,21 @@
+{
+  "name": "@kscript/require",
+  "version": "1.0.0",
+  "description": "在浏览器中使用 commonjs 模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "require"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kscript/require.git"
+  },
+  "author": "luren",
+  "license": "ISC"
+}
